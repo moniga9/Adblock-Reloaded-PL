@@ -12,6 +12,7 @@ Własna lista do blokowania reklam.
 * Pierwsza wersja
 * 
 
+As Kanye West said:
 
-I think you should use an
-`<addr>` element here instead.
+> We're living the future so
+> the present is our past.
