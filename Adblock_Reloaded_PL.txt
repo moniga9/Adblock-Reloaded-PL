@@ -1,4 +1,4 @@
-﻿! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
+﻿! License: https://github.com/moniga9/Adblock-Reloaded-PL/blob/main/LICENSE
 ! Title: Adblock Reloaded PL
 ! Description: Własna lista do blokowania reklam
 ! Version: 1.0.0
