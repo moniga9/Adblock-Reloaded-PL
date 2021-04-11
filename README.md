@@ -7,10 +7,4 @@ https://raw.githubusercontent.com/moniga9/Adblock-Reloaded-PL/main/Adblock_Reloa
   
 <h4>
 1.0.0
-1. KO
-2. 1
-3. 23
-4. 23
-5. 23
-6. 
 Pierwsza wersja
