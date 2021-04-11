@@ -1,2 +1,2 @@
 # Adblock-Reloaded-PL
-Moja własna lista do blokowania reklam
+ Własna lista do blokowania reklam
