@@ -1,4 +1,6 @@
 # Adblock Reloaded PL
-Własna lista do blokowania reklam
+Własna lista do blokowania reklam.
 
-[Zasubskrybuj](https://raw.githubusercontent.com/moniga9/Adblock-Reloaded-PL/main/Adblock_Reloaded_PL.txt)
+<h3> https://raw.githubusercontent.com/moniga9/Adblock-Reloaded-PL/main/Adblock_Reloaded_PL.txt
+
+**Lista zmian:** <h6>
