@@ -1,0 +1,18 @@
+﻿! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
+! Title: Adblock Reloaded PL
+! Description: Własna lista do blokowania reklam
+! Version: 1.0.0
+! TimeUpdated: 2021-04-11T07:02:00+02:00
+! Expires: 14 days (update frequency)
+! Homepage: https://github.com/moniga9/Adblock-Reloaded-PL
+! GitHub pull requests: https://github.com/moniga9/Adblock-Reloaded-PL/pulls
+! GitHub issues: https://github.com/moniga9/Adblock-Reloaded-PL/issues
+! -----------------------Advert blocking filters-----------------------!
+cda.pl##div.wrapp-resp-area:nth-child(11)
+cda.pl###gora > div.Light-top-region:last-child > div.Light-left-bok:last-child
+cda.pl###gora > div.Light-top-region:last-child > div.Light-right-bok:first-child
+cda.pl###wrcz > div.bg-page.bg-2 > div.bg-fixed.bg-img > div.contents-wrapp.relative:last-child > div.container-wrapper-resp:last-child > div.container-wrapper.container-wrapper-mrg > div.container > div.layout-container:first-child > div.wrapp-resp.wesn-esda.wesn-esda-tsrif.banernadmenu:first-child
+cda.pl###r_nad_menuu
+cda.pl##div.wrapp-resp-area:nth-child(10)
+cda.pl###gora > div.DefaultSFont:nth-child(2) > div:first-child
+cda.pl###menu1 > ul.topmenu-wrapper:last-child > li.topmenu-filmy-pelnometrazowe:first-child
