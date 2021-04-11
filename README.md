@@ -11,4 +11,7 @@ Własna lista do blokowania reklam.
   
 * Pierwsza wersja
 * 
-![1 0 0](https://user-images.githubusercontent.com/45391043/114312455-0665d700-9af3-11eb-863a-ffe4e6d92787.png)
+
+
+I think you should use an
+`<addr>` element here instead.
