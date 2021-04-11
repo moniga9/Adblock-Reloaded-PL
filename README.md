@@ -6,5 +6,4 @@ https://raw.githubusercontent.com/moniga9/Adblock-Reloaded-PL/main/Adblock_Reloa
 <h4> Lista zmian:
   
 * 1.0.0
-* 
 * Pierwsza wersja
