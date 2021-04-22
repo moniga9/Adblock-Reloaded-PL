@@ -7,6 +7,10 @@ Własna lista do blokowania reklam.
 
 <h3> Lista zmian:
   
-<h4> 1.0.0
+<h4> 1.0.0 11.04.2021
   
 * Pierwsza wersja
+  
+<h4> 1.0.1 22.04.2021
+  
+* Dodanie blokowania na dobreprogramy.pl 
