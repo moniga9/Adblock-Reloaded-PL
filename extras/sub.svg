@@ -95,7 +95,7 @@
      d="M 0,3 C 0,1.3431 1.3552,0 3.027027,0 H 87 V 20 H 3.027027 C 1.3552,20 0,18.6569 0,17 Z"
      fill="url(#workflow-fill)"
      fill-rule="nonzero"
-     style="fill:#ff5555" />
+     style="fill:#333333" />
   <g
      transform="matrix(1.0294708,0,0,1,85.526461,0)"
      font-family="'DejaVu Sans', Verdana, Geneva, sans-serif"
@@ -107,7 +107,7 @@
        id="state-bg"
        fill="url(#state-fill)"
        fill-rule="nonzero"
-       style="fill:#ff5555" />
+       style="fill:#333333" />
   </g>
   <text
      fill="#010101"
