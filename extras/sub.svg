@@ -121,6 +121,17 @@
            id="tspan19"
            style="font-size:14.6667px">Zasubskrybuj</tspan></text>
     </g>
-
+    <g
+       transform="translate(87)"
+       font-family="'DejaVu Sans',Verdana,Geneva,sans-serif"
+       font-size="11"
+       id="g34">
+      <path
+         d="M0 0h46.939C48.629 0 50 1.343 50 3v14c0 1.657-1.37 3-3.061 3H0V0z"
+         id="state-bg"
+         fill="url(#state-fill)"
+         fill-rule="nonzero"
+         style="fill:#333333" />
+    </g>
   </g>
 </svg>
