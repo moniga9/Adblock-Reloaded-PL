@@ -1,8 +1,8 @@
 ﻿! License: https://github.com/moniga9/Adblock-Reloaded-PL/blob/main/LICENSE
 ! Title: Adblock Reloaded PL
 ! Description: Własna lista do blokowania reklam
-! Version: 1.0.0
-! TimeUpdated: 2021-04-11T07:02:00+02:00
+! Version: 1.0.1
+! TimeUpdated: 2021-04-22
 ! Expires: 14 days (update frequency)
 ! Homepage: https://github.com/moniga9/Adblock-Reloaded-PL
 ! GitHub pull requests: https://github.com/moniga9/Adblock-Reloaded-PL/pulls
@@ -16,3 +16,4 @@ cda.pl###r_nad_menuu
 cda.pl##div.wrapp-resp-area:nth-child(10)
 cda.pl###gora > div.DefaultSFont:nth-child(2) > div:first-child
 cda.pl###menu1 > ul.topmenu-wrapper:last-child > li.topmenu-filmy-pelnometrazowe:first-child
+dobreprogramy.pl##.bDUAFUrW, .ARd1, .ARd3, .nzfmvrc, .m2yzuot
