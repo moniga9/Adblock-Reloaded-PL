@@ -5,11 +5,9 @@ Własna lista do blokowania reklam.
 [![Zasubskrybuj](https://raw.githubusercontent.com/moniga9/Adblock-Reloaded-PL/main/extras/sub.svg)](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Fmoniga9%2FAdblock-Reloaded-PL%2Fmain%2FAdblock_Reloaded_PL.txt&amp;title=Adblock%20Reloaded%20PL)
 
 <h3> Lista zmian:
-  
-<h4> 1.0.0 11.04.2021
-  
-* Pierwsza wersja
-  
-<h4> 1.0.1 22.04.2021
-  
-* Dodanie blokowania na dobreprogramy.pl 
+
+* **1.0.0**
+  * <!-- (Lista zmian) --> Pierwsza wersja
+
+* **1.0.1**
+  * <!-- (Lista zmian) --> Dodanie blokowania na dobreprogramy.pl
