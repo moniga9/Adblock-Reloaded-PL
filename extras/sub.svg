@@ -132,23 +132,6 @@
          fill="url(#state-fill)"
          fill-rule="nonzero"
          style="fill:#ff5555" />
-      <text
-         fill="#010101"
-         fill-opacity="0.3"
-         id="text28"
-         style="font-size:14.6667px"><tspan
-           x="4"
-           y="15"
-           id="tspan26"
-           style="font-size:14.6667px">1.0.1</tspan></text>
-      <text
-         fill="#ffffff"
-         id="text32"
-         style="font-size:14.6667px"><tspan
-           x="4"
-           y="14"
-           id="tspan30"
-           style="font-size:14.6667px">1.0.1</tspan></text>
     </g>
   </g>
 </svg>
