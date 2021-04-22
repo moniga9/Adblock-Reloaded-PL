@@ -44,3 +44,111 @@
      inkscape:window-y="35"
      inkscape:window-maximized="1"
      inkscape:current-layer="g38" />
+  <defs
+     id="defs12">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 10 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="137 : 10 : 1"
+       inkscape:persp3d-origin="68.5 : 6.6666667 : 1"
+       id="perspective46" />
+    <linearGradient
+       id="workflow-fill"
+       x1="41.713306"
+       y1="0"
+       x2="41.713306"
+       y2="41.713306"
+       gradientTransform="scale(2.0856654,0.4794633)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#444D56"
+         offset="0%"
+         id="stop2" />
+      <stop
+         stop-color="#24292E"
+         offset="100%"
+         id="stop4"
+         style="stop-color:#000000;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="state-fill"
+       x1="31.747772"
+       y1="0.45638576"
+       x2="31.556585"
+       y2="31.849195"
+       gradientTransform="scale(1.5811388,0.63245553)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#34D058"
+         offset="0%"
+         id="stop7" />
+      <stop
+         stop-color="#28A745"
+         offset="100%"
+         id="stop9" />
+    </linearGradient>
+  </defs>
+  <g
+     fill="none"
+     fill-rule="evenodd"
+     id="g38">
+    <g
+       font-family="'DejaVu Sans',Verdana,Geneva,sans-serif"
+       font-size="11"
+       id="g23">
+      <path
+         id="workflow-bg"
+         d="M0,3 C0,1.3431 1.3552,0 3.02702703,0 L87,0 L87,20 L3.02702703,20 C1.3552,20 0,18.6569 0,17 L0,3 Z"
+         fill="url(#workflow-fill)"
+         fill-rule="nonzero"
+         style="fill:#333333" />
+      <text
+         fill="#010101"
+         fill-opacity="0.3"
+         id="text17"
+         style="font-size:14.6667px"><tspan
+           x="22.198198"
+           y="15"
+           id="tspan15"
+           style="font-size:14.6667px">Zasubskrybuj</tspan></text>
+      <text
+         fill="#ffffff"
+         id="text21"
+         style="font-size:14.6667px"><tspan
+           x="22.198198"
+           y="14"
+           id="tspan19"
+           style="font-size:14.6667px">Zasubskrybuj</tspan></text>
+    </g>
+    <g
+       transform="translate(87)"
+       font-family="'DejaVu Sans',Verdana,Geneva,sans-serif"
+       font-size="11"
+       id="g34">
+      <path
+         d="M0 0h46.939C48.629 0 50 1.343 50 3v14c0 1.657-1.37 3-3.061 3H0V0z"
+         id="state-bg"
+         fill="url(#state-fill)"
+         fill-rule="nonzero"
+         style="fill:#ff5555" />
+      <text
+         fill="#010101"
+         fill-opacity="0.3"
+         id="text28"
+         style="font-size:14.6667px"><tspan
+           x="4"
+           y="15"
+           id="tspan26"
+           style="font-size:14.6667px">1.0.1</tspan></text>
+      <text
+         fill="#ffffff"
+         id="text32"
+         style="font-size:14.6667px"><tspan
+           x="4"
+           y="14"
+           id="tspan30"
+           style="font-size:14.6667px">1.0.1</tspan></text>
+    </g>
+  </g>
+</svg>
