@@ -2,7 +2,7 @@
 ! Title: Adblock Reloaded PL
 ! Description: Lista do blokowania reklam i innych elementów zaśmiecających strony.
 ! Version: 1.0.2
-! TimeUpdated: 2021-09-04T01:13:20+00:00
+! TimeUpdated: 2021-09-04T13:20:00+00:00
 ! Expires: 90 days (update frequency)
 ! Homepage: https://github.com/moniga9/Adblock-Reloaded-PL
 ! GitHub pull requests: https://github.com/moniga9/Adblock-Reloaded-PL/pulls
