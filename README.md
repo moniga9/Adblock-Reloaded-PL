@@ -6,11 +6,8 @@ Własna lista do blokowania reklam.
 
 ### Lista zmian
 
-* **1.0.0**
-  * <!-- (Lista zmian) --> Pierwsza wersja
-
 * **1.0.1**
-  * <!-- (Lista zmian) --> Dodanie blokowania na dobreprogramy.pl
+  * <!-- (Lista zmian) --> Filtry dla strony dobreprogramy.pl
 
 * **1.0.2**
   * <!-- (Lista zmian) --> Dodanie filtrów kosmetycznych dla pilot.wp.pl
