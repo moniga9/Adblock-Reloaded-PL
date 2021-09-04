@@ -6,9 +6,9 @@ Własna lista do blokowania reklam.
 
 ### Lista zmian
 
-* **1.0.1**
+* **1.0.1** (22.04.2021)
   * <!-- (Lista zmian) --> Filtry dla strony dobreprogramy.pl
 
-* **1.0.2**
+* **1.0.2** (04.09.2021)
   * <!-- (Lista zmian) --> Dodanie filtrów kosmetycznych dla pilot.wp.pl
 
