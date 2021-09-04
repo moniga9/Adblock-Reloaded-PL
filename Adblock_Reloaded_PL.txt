@@ -1,9 +1,9 @@
 ﻿! License: https://github.com/moniga9/Adblock-Reloaded-PL/blob/main/LICENSE
 ! Title: Adblock Reloaded PL
-! Description: Lista do blokowania reklam i innych elementów zaśmiecające strony.
+! Description: Lista do blokowania reklam i innych elementów zaśmiecających strony.
 ! Version: 1.0.2
 ! TimeUpdated: 2021-09-04
-! Expires: 14 days (update frequency)
+! Expires: 90 days (update frequency)
 ! Homepage: https://github.com/moniga9/Adblock-Reloaded-PL
 ! GitHub pull requests: https://github.com/moniga9/Adblock-Reloaded-PL/pulls
 ! GitHub issues: https://github.com/moniga9/Adblock-Reloaded-PL/issues
