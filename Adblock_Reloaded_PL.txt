@@ -1,8 +1,8 @@
 ﻿! License: https://github.com/moniga9/Adblock-Reloaded-PL/blob/main/LICENSE
 ! Title: Adblock Reloaded PL
 ! Description: Lista do blokowania reklam i innych elementów zaśmiecających strony.
-! Version: 1.0.2
-! TimeUpdated: 2021-09-04T13:20:00+00:00
+! Version: 1.0.3
+! TimeUpdated: 2021-10-06T14:02:00+00:00
 ! Expires: 90 days (update frequency)
 ! Homepage: https://github.com/moniga9/Adblock-Reloaded-PL
 ! GitHub pull requests: https://github.com/moniga9/Adblock-Reloaded-PL/pulls
@@ -24,4 +24,4 @@ pilot.wp.pl##.jGVqIN.sc-16hxxga-3.eERoFv.sc-14qjk1y-3
 pilot.wp.pl##.gSXPe.sc-13yj9zs-0.d0hc62-0
 pilot.wp.pl##.dsGqTH.sc-1oyhupj-0.ZCtRM.sc-1oz7rae-0
 pilot.wp.pl##.gTReIW.orhry8-6.ZCtRM.sc-1oz7rae-0 > div > .ZCtRM.sc-1oz7rae-0
-
+www.cda.pl##.siddeAd
