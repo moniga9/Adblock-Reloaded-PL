@@ -1,9 +1,9 @@
 ﻿! License: https://github.com/moniga9/Adblock-Reloaded-PL/blob/main/LICENSE
 ! Title: Adblock Reloaded PL
 ! Description: Lista do blokowania reklam i innych elementów zaśmiecających strony.
-! Version: 1.0.4
-! TimeUpdated: 2021-10-20T13:20:00+00:00
-! Expires: 90 days (update frequency)
+! Version: 1.0.5
+! TimeUpdated: 2021-10-27T14:45:00+00:00
+! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/moniga9/Adblock-Reloaded-PL
 ! GitHub pull requests: https://github.com/moniga9/Adblock-Reloaded-PL/pulls
 ! GitHub issues: https://github.com/moniga9/Adblock-Reloaded-PL/issues
@@ -34,3 +34,5 @@ www.simsdom.com###dwd60q > .-resized._wadgoogle
 www.simsdom.com##.-resized._wadgoogle
 www.simsdom.com##._l9
 www.deepl.com##.lmt_quotes
+twojeip.wp.pl##.content--left
+twojeip.wp.pl##.articles--container
